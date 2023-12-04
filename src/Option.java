@@ -1,0 +1,7 @@
+public enum Option {
+    ADD_MESSAGE,
+    SEND_MESSAGE,
+    DISPLAY_RECEIVED_MESSAGES,
+    DISPLAY_ALL_MESSAGES,
+    EXIT
+}
